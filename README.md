@@ -1,7 +1,10 @@
-# SAMAR_Programming-Assignment-2
+# EXPERIMENT 2
+# NUMERICAL PYTHON (NUMPY)
 
-## EXPERIMENT 2
-## NUMERICAL PYTHON (NUMPY)
+## Name: Samar, Mariane Iszley V.
+## Section: 2ECE-D                                                          
+## Date Submitted: Sept. 5, 2024
+
 ### I. Intended Learning Outcomes:
 ###   1. To identify the codes and functions incorporated in the Numpy library
 ###   2. To be able to apply and use the different codes and functions in creating a Python program using a Numpy library
@@ -20,7 +23,7 @@
 ### ndarray as X_normalized.npy
 
 ### DIVISIBLE BY 3 PROBLEM: Create the following 10 x 10 ndarray.
-## 𝐴 =
+### 𝐴 =
 ### [ 1   4   ⋯   81  100
 ###   ⋮    ⋮   ⋱   ⋮     ⋮
 ###   ⋮    ⋮   ⋱   ⋮     ⋮
