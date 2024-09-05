@@ -1,9 +1,8 @@
-# EXPERIMENT 2
-# NUMERICAL PYTHON (NUMPY)
-#
-## Name: Samar, Mariane Iszley V.
-## Section: 2ECE-D                                                          
-## Date Submitted: Sept. 5, 2024
+## EXPERIMENT 2
+## NUMERICAL PYTHON (NUMPY)
+### Name: Samar, Mariane Iszley V.
+### Section: 2ECE-D                                                          
+### Date Submitted: Sept. 5, 2024
 #
 ## How It's Made:
 ### Tech used: Jupyter Notebook, Python
