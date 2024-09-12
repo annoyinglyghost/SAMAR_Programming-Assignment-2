@@ -32,4 +32,4 @@ ndarray as X_normalized.npy
 
 ## DIVISIBLE BY 3 PROBLEM: 
 Create the following 10 x 10 ndarray
-
+![image](https://github.com/annoyinglyghost/Images-2-/blob/main/divisible%20by%203.png)
