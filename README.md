@@ -29,6 +29,7 @@ In this problem, create a random 5 x 5 ndarray and store it to variable X. Norma
 ndarray as X_normalized.npy
 <br />
 
+Input: <br />
 ```python
 import numpy as np #importing the numpy library in python to make it easier
 
@@ -52,6 +53,7 @@ Create the following 10 x 10 ndarray
 which are the squares of the first 100 positive integers. <br />
 From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
 
+Input: <br />
 ```python
 import numpy as np  #importing the numpy library in python to make it easier
 
