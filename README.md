@@ -11,6 +11,7 @@ Date Submitted: Sept. 5, 2024
 2. To be able to apply and use the different codes and functions in creating a Python program using a
 Numpy library
 <br />
+
 ## II. Instructions:
 Write a Python script/code in the Jupyter Notebook to do the given problems. You may submit your Jupyter
 notebook in the dedicated submission bin.
