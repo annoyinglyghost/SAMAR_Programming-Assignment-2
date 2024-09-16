@@ -1,4 +1,4 @@
-# PA2 - Numerical Python
+# :heart_decoration: PA2 - Numerical Python
 
 ## NORMALIZATION PROBLEM: 
 Normalization is one of the most basic preprocessing techniques in
@@ -26,7 +26,9 @@ np.save('X_normalized.np', X_normalized) #saving the normalized ndarray
 print("\nOriginal Array:\n", X)
 print("\n\nNormalized Array:\n", X_normalized)
 ```
+
 Output: 
+
 ![image](https://github.com/annoyinglyghost/Images-2-/blob/main/3.png)
 
 ## DIVISIBLE BY 3 PROBLEM: 
@@ -50,7 +52,8 @@ print("\n\nThe elements divisible by 3: \n", div_by_3)
 
 
 Output: 
+
 ![image](https://github.com/annoyinglyghost/Images-2-/blob/main/6.png)
 
 ## Author
-Mariane Iszley V. Samar
+:red_haired_woman: Mariane Iszley V. Samar
