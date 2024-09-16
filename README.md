@@ -59,3 +59,4 @@ print("\n\nThe elements divisible by 3: \n", div_by_3)
 
 ## Author
 :red_haired_woman: Mariane Iszley V. Samar
+- @annoyingltghost—https://github.com/annoyinglyghost
