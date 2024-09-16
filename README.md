@@ -1,9 +1,4 @@
-# EXPERIMENT 2
-### NUMERICAL PYTHON (NUMPY)
-Name: Samar, Mariane Iszley V.
-Section: 2ECE-D                                                          
-Date Submitted: Sept. 5, 2024 
-<br />
+# PA2 - Numerical Python
 
 ## NORMALIZATION PROBLEM: 
 Normalization is one of the most basic preprocessing techniques in
@@ -57,4 +52,5 @@ print("\n\nThe elements divisible by 3: \n", div_by_3)
 Output: <br />
 ![image](https://github.com/annoyinglyghost/Images-2-/blob/main/6.png)
 
-
+## Author
+Mariane Iszley V. Samar
